@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
-  "download_url": "https://github.com/francescolf20/dynamox-releases/releases/download/v0.1.6/DynamoX_Setup_0.1.6.exe",
-  "release_notes": "Installer professionale, Session Review, Storico sessioni"
+  "version": "0.1.7",
+  "download_url": "https://github.com/francescolf20/dynamox-releases/releases/download/v0.1.7/DynamoX_Setup_0.1.7.exe",
+  "release_notes": "Profilo automatico aggiornato in tempo reale. Installer chiude DynamoX automaticamente prima di aggiornarsi."
 }
