@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
-  "download_url": "https://github.com/francescolf20/dynamox-releases/releases/download/v0.2.1/DynamoX_Setup_0.2.1.exe",
+  "version": "0.2.2",
+  "download_url": "https://github.com/francescolf20/dynamox-releases/releases/download/v0.2.2/DynamoX_Setup_0.2.2.exe",
   "release_notes": "Session Review migliorato: chiusura automatica cambiando tab e tooltip CPU sul grafico."
 }
