@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
-  "download_url": "https://github.com/francescolf20/dynamox-releases/releases/download/v0.2.2/DynamoX_Setup_0.2.2.exe",
-  "release_notes": "Session Review migliorato: chiusura automatica cambiando tab e tooltip CPU sul grafico."
+  "version": "0.3.0",
+  "download_url": "https://github.com/francescolf20/vcorex-releases/releases/download/v0.3.0/VcoreX_Setup_0.3.0.exe",
+  "release_notes": "Rebrand a VcoreX. Sistema beta code, Benchmark FPS/1% low con PresentMon, scanner processi/servizi extra."
 }
