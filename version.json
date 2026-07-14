@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
-  "download_url": "https://github.com/francescolf20/vcorex-releases/releases/download/v0.3.0/VcoreX_Setup_0.3.0.exe",
-  "release_notes": "Rebrand a VcoreX. Sistema beta code, Benchmark FPS/1% low con PresentMon, scanner processi/servizi extra."
+  "version": "0.4.0",
+  "download_url": "https://github.com/francescolf20/vcorex-releases/releases/latest/download/VcoreX_Setup.exe",
+  "release_notes": "Hotkey globali F9/F10, overlay countdown Benchmark, ripristino automatico alla chiusura del gioco, scanner ottimizzazioni extra, condivisione risultati su Discord."
 }
